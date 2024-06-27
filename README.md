@@ -17,7 +17,8 @@ This is a CLI-based anti-chess game for two players. The rules are as follows:
 ## How to Build and Run
 
 ### Prerequisites
-- Node.js installed on your system.
+- [Download Node.js](https://nodejs.org/en/download/)
+ installed on your system.
 
 ### Instructions
 
