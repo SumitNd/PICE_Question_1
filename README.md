@@ -24,5 +24,5 @@ This is a CLI-based anti-chess game for two players. The rules are as follows:
 1. **Clone the repository** (or download the project files).
 
    ```sh
-   git clone https://github.com/SumitNd/cli-antichess.git
-   cd cli-antichess
+   git clone https://github.com/SumitNd/PICE_Question_1
+   cd PICE_Question_1
