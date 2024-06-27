@@ -26,3 +26,39 @@ This is a CLI-based anti-chess game for two players. The rules are as follows:
    ```sh
    git clone https://github.com/SumitNd/PICE_Question_1
    cd PICE_Question_1
+### Example
+
+```
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~ Welcome to Anti-Chess ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+__|_A_B_C_D_E_F_G_H
+8 | R N B Q K B N R
+7 | P P P P P P P P
+6 |
+5 |
+4 |
+3 |
+2 | p p p p p p p p
+1 | r n b q k b n r
+
+White's move (e.g., A2 A3), 'quit' to end or 'display' to see moves:
+A2 A3
+6
+6
+
+display
+__|_A_B_C_D_E_F_G_H
+8 | R N B Q K B N R
+7 | P P P P P P P P
+6 |
+5 |
+4 |
+3 | p
+2 |   p p p p p p p
+1 | r n b q k b n r
+
+Black's move (e.g., A2 A3), 'quit' to end or 'display' to see moves:^C
+
+```
